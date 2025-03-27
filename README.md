@@ -1,7 +1,10 @@
-# repo-wspolne
 
-```
- 280  mv indywidulane-repo/ repo-wspolne/
+  275  neofetch
+  276  git clone git@github.com:GrzegorzSzczepanek/repo-wspolne.git
+  277  git clone git@github.com:GrzegorzSzczepanek/indywidulane-repo.git
+  278  ls
+  279  mkdir lab3
+  280  mv indywidulane-repo/ repo-wspolne/
   281  mv repo-wspolne/ lab3/
   282  cd lab3
   283  ls
@@ -67,4 +70,3 @@
   343  poetry run make latexpdf
   344  git status
   345  history
-```
