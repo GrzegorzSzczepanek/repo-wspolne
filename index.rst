@@ -1,6 +1,6 @@
 Monitorowanie i diagnostyka 
 =====
-:Author: - Dominika Półchłopek
+:Autorzy: - Dominika Półchłopek
 	 - Kacper Rasztar
          - Grzegosz Szczepanek
 
