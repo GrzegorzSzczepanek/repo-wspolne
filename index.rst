@@ -183,7 +183,9 @@ Bibliografia:
 
 [^3]: https://documentation.red-gate.com/pgnow
 
-..[#4]: https://last9.io/blog/monitoring-postgres/
+.. rubric:: Footnotes
+
+.. [#4]: https://last9.io/blog/monitoring-postgres/
 
 [^5]: https://stackoverflow.com/questions/17654033/how-to-use-pg-stat-activity
 
