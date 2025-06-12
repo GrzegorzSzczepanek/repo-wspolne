@@ -178,65 +178,65 @@ Monitorowanie i diagnostyka PostgreSQL stanowią kompleksowy proces wymagający 
 Bibliografia:
 -------
 
-[1]  https://betterstack.com/community/comparisons/postgresql-monitoring-tools/
+1. https://betterstack.com/community/comparisons/postgresql-monitoring-tools/
 
-[2]:  https://uptrace.dev/tools/postgresql-monitoring-tools
+2.  https://uptrace.dev/tools/postgresql-monitoring-tools
 
-[3] : https://documentation.red-gate.com/pgnow
+3. https://documentation.red-gate.com/pgnow
 
-[4] : https://last9.io/blog/monitoring-postgres/
+4. https://last9.io/blog/monitoring-postgres/
 
-[5] : https://stackoverflow.com/questions/17654033/how-to-use-pg-stat-activity
+5. https://stackoverflow.com/questions/17654033/how-to-use-pg-stat-activity
 
-[6] : https://pganalyze.com/blog/postgres-lock-monitoring
+6. https://pganalyze.com/blog/postgres-lock-monitoring
 
-[7] : https://www.pgaudit.org
+7. https://www.pgaudit.org
 
-[8] : https://www.postgresql.org/docs/current/pgstatstatements.html
+8. https://www.postgresql.org/docs/current/pgstatstatements.html
 
-[9] : https://github.com/darold/pgbadger
+9. https://github.com/darold/pgbadger
 
-[10] : https://hevodata.com/learn/elasticsearch-to-postgresql/
+10. https://hevodata.com/learn/elasticsearch-to-postgresql/
 
-[11] : https://www.zabbix.com/integrations/postgresql
+11. https://www.zabbix.com/integrations/postgresql
 
-[12] : https://sematext.com/blog/postgresql-monitoring/
+12. https://sematext.com/blog/postgresql-monitoring/
 
-[13] : https://www.alibabacloud.com/help/en/analyticdb/analyticdb-for-postgresql/use-cases/use-pg-stat-activity-to-analyze-and-diagnose-active-sql-queries
+13. https://www.alibabacloud.com/help/en/analyticdb/analyticdb-for-postgresql/use-cases/use-pg-stat-activity-to-analyze-and-diagnose-active-sql-queries
 
-[14] : https://wiki.postgresql.org/wiki/Lock_Monitoring
+14. https://wiki.postgresql.org/wiki/Lock_Monitoring
 
-[15] : https://severalnines.com/blog/postgresql-log-analysis-pgbadger/
+15. https://severalnines.com/blog/postgresql-log-analysis-pgbadger/
 
-[16] : https://pgwatch.com
+16. https://pgwatch.com
 
-[17] : https://www.depesz.com/2022/07/05/understanding-pg_stat_activity/
+17. https://www.depesz.com/2022/07/05/understanding-pg_stat_activity/
 
-[18] : https://www.postgresql.org/about/news/pgbadger-v124-released-2772/
+18. https://www.postgresql.org/about/news/pgbadger-v124-released-2772/
 
-[19] : https://docs.yugabyte.com/preview/explore/observability/pg-stat-activity/
+19. https://docs.yugabyte.com/preview/explore/observability/pg-stat-activity/
 
-[20] : https://www.postgresql.org/about/news/pgbadger-130-released-2975/
+20. https://www.postgresql.org/about/news/pgbadger-130-released-2975/
 
-[21] : https://techdocs.broadcom.com/us/en/vmware-tanzu/data-solutions/tanzu-greenplum/6/greenplum-database/ref_guide-system_catalogs-pg_stat_activity.html
+21. https://techdocs.broadcom.com/us/en/vmware-tanzu/data-solutions/tanzu-greenplum/6/greenplum-database/ref_guide-system_catalogs-pg_stat_activity.html
 
-[22] : https://www.postgresql.org/docs/current/monitoring.html
+22. https://www.postgresql.org/docs/current/monitoring.html
 
-[23] : https://www.reddit.com/r/PostgreSQL/comments/1auy79s/suggestions_for_postgresql_monitoring_tool/
+23. https://www.reddit.com/r/PostgreSQL/comments/1auy79s/suggestions_for_postgresql_monitoring_tool/
 
-[24] : https://wiki.postgresql.org/wiki/Monitoring
+24. https://wiki.postgresql.org/wiki/Monitoring
 
-[25] : https://www.site24x7.com/learn/postgres-monitoring-guide.html
+25. https://www.site24x7.com/learn/postgres-monitoring-guide.html
 
-[26] : https://www.softwareandbooz.com/introducing-pgnow/
+26. https://www.softwareandbooz.com/introducing-pgnow/
 
-[27] : https://www.postgresql.org/docs/current/monitoring-stats.html
+27. https://www.postgresql.org/docs/current/monitoring-stats.html
 
-[28] : https://docs.dhis2.org/fr/topics/tutorials/analysing-postgresql-logs-using-pgbadger.html
+28. https://docs.dhis2.org/fr/topics/tutorials/analysing-postgresql-logs-using-pgbadger.html
 
-[29] : https://dev.to/full_stack_adi/pgbadger-postgresql-log-analysis-made-easy-54ki
+29. https://dev.to/full_stack_adi/pgbadger-postgresql-log-analysis-made-easy-54ki
 
-[30] : https://support.nagios.com/kb/article/xi-5-10-0-and-newer-postgress-to-mysql-conversion-560.html
+30. https://support.nagios.com/kb/article/xi-5-10-0-and-newer-postgress-to-mysql-conversion-560.html
 
 .. [31] : https://github.com/melli0505/Docker-ELK-PostgreSQL
 
