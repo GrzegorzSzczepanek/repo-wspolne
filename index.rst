@@ -14,7 +14,7 @@ Monitorowanie	Sesji	i	Użytkowników
 Analiza	Aktywności	Użytkowników
 ~~~~~~~~
 
-Systematyczne obserwowanie działań wykonywanych przez użytkowników bazy danych stanowi podstawę skutecznego monitorowania PostgreSQL. Kluczowym narzędziem w tym obszarze jest widok systemowy pg_stat_activity, który umożliwia śledzenie bieżących zapytań, czasu ich trwania oraz identyfikowanie użytkowników i aplikacji korzystających z bazy [1]_. Widok pg_stat_activity przedstawia informacje o aktywnych procesach serwera wraz ze szczegółami dotyczącymi powiązanych sesji użytkowników i zapytań[^19]. Każdy wiersz w tym widoku reprezentuje proces serwera z danymi o bieżącym stanie połączenia bazy danych [5]_.
+Systematyczne obserwowanie działań wykonywanych przez użytkowników bazy danych stanowi podstawę skutecznego monitorowania PostgreSQL. Kluczowym narzędziem w tym obszarze jest widok systemowy pg_stat_activity, który umożliwia śledzenie bieżących zapytań, czasu ich trwania oraz identyfikowanie użytkowników i aplikacji korzystających z bazy [1]_. Widok pg_stat_activity przedstawia informacje o aktywnych procesach serwera wraz ze szczegółami dotyczącymi powiązanych sesji użytkowników i zapytań [19]. Każdy wiersz w tym widoku reprezentuje proces serwera z danymi o bieżącym stanie połączenia bazy danych [5]_.
 
 Praktyczne zastosowanie pg_stat_activity obejmuje monitorowanie aktywności w czasie rzeczywistym oraz generowanie powiadomień w przypadku wykrycia nieprawidłowości. Narzędzia takie jak pgAdmin, Zabbix czy Prometheus wykorzystują te dane do wizualizacji i automatyzacji procesów monitorowania [1]_. Administratorzy mogą wykorzystywać proste zapytania SQL do analizy aktywności, na przykład: "SELECT * FROM pg_stat_activity;" pozwala na wyświetlenie wszystkich aktywnych sesji [5]_.
 
@@ -180,9 +180,7 @@ Bibliografia:
 
 .. [1] : https://betterstack.com/community/comparisons/postgresql-monitoring-tools/
 
-
 .. [2] : https://uptrace.dev/tools/postgresql-monitoring-tools
-
 
 .. [3] : https://documentation.red-gate.com/pgnow
 
