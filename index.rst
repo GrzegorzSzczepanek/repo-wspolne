@@ -177,7 +177,7 @@ Monitorowanie i diagnostyka PostgreSQL stanowią kompleksowy proces wymagający 
 
 Bibliografia:
 
-[#1]: https://betterstack.com/community/comparisons/postgresql-monitoring-tools/
+[^1]: https://betterstack.com/community/comparisons/postgresql-monitoring-tools/
 
 [^2]: https://uptrace.dev/tools/postgresql-monitoring-tools
 
