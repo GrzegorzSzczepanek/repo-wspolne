@@ -166,7 +166,7 @@ Weryfikacja Spójności
 
 Implementacja niezależnego monitorowania każdego węzła klastra z osobną instancją monitorowania poza klastrem bazy danych zapewnia widoczność podczas problemów z całym klastrem[^4]. Okresowe sprawdzenie spójności danych między instancją główną a replikami, monitorowanie konfliktów replikacji w konfiguracjach replikacji logicznej oraz śledzenie sum kontrolnych tabel są kluczowe dla utrzymania integralności danych[^4].
 
-Monitorowanie rozkładu połączeń obejmuje śledzenie liczby połączeń na głównej instancji i replikach odczytu, monitorowanie konfiguracji load balancera oraz weryfikację możliwości failover w connection stringach aplikacji[^4]. Sprawdzanie nieodpowiednich zapisów kierowanych do replik pomaga uniknąć błędów aplikacyjnych podczas przełączeń[#f4].
+Monitorowanie rozkładu połączeń obejmuje śledzenie liczby połączeń na głównej instancji i replikach odczytu, monitorowanie konfiguracji load balancera oraz weryfikację możliwości failover w connection stringach aplikacji[^4]. Sprawdzanie nieodpowiednich zapisów kierowanych do replik pomaga uniknąć błędów aplikacyjnych podczas przełączeń[^4].
 
 
 Wniosek
@@ -183,7 +183,7 @@ Bibliografia:
 
 [^3]: https://documentation.red-gate.com/pgnow
 
-[#f4]: https://last9.io/blog/monitoring-postgres/
+[^4]: https://last9.io/blog/monitoring-postgres/
 
 [^5]: https://stackoverflow.com/questions/17654033/how-to-use-pg-stat-activity
 
