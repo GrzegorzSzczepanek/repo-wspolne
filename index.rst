@@ -7,7 +7,7 @@ Monitorowanie i diagnostyka
 Wstęp
 ---------
 
-Monitorowanie i diagnostyka baz danych PostgreSQL stanowią fundamentalne elementy zapewniające wydajność, bezpieczeństwo oraz stabilność środowiska produkcyjnego. Nowoczesne rozwiązania monitorowania umożliwiają administratorom proaktywne wykrywanie problemów, optymalizację wydajności oraz zapewnienie zgodności z przepisami bezpieczeństwa[^1]. Efektywne monitorowanie PostgreSQL obejmuje szeroki zakres metryk - od aktywności sesji użytkowników, przez analizę operacji na danych, po szczegółowe śledzenie logów systemowych i zasobów na poziomie systemu operacyjnego[^4].
+Monitorowanie i diagnostyka baz danych PostgreSQL stanowią fundamentalne elementy zapewniające wydajność, bezpieczeństwo oraz stabilność środowiska produkcyjnego. Nowoczesne rozwiązania monitorowania umożliwiają administratorom proaktywne wykrywanie problemów, optymalizację wydajności oraz zapewnienie zgodności z przepisami bezpieczeństwa[1]_. Efektywne monitorowanie PostgreSQL obejmuje szeroki zakres metryk - od aktywności sesji użytkowników, przez analizę operacji na danych, po szczegółowe śledzenie logów systemowych i zasobów na poziomie systemu operacyjnego[^4].
 
 Monitorowanie	Sesji	i	Użytkowników
 ----------
@@ -178,7 +178,7 @@ Monitorowanie i diagnostyka PostgreSQL stanowią kompleksowy proces wymagający 
 Bibliografia:
 -------
 
-[^1]: https://betterstack.com/community/comparisons/postgresql-monitoring-tools/
+..[1]: https://betterstack.com/community/comparisons/postgresql-monitoring-tools/
 
 [^2]: https://uptrace.dev/tools/postgresql-monitoring-tools
 
