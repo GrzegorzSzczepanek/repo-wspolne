@@ -88,7 +88,7 @@ Narzędzia Systemowe
 
 Monitorowanie zasobów systemowych takich jak procesor, pamięć, dysk i sieć jest kluczowe dla zapewnienia stabilnej pracy PostgreSQL[^1]. W środowisku Linux administratorzy wykorzystują narzędzia takie jak top (wyświetlające listę procesów i zużycie zasobów w czasie rzeczywistym), htop (oferujące graficzne przedstawienie obciążenia), iostat (monitorujące statystyki wejścia/wyjścia) oraz vmstat (dostarczające informacji o pamięci i aktywności procesora)[^1].
 
-W środowisku Windows popularne narzędzia obejmują Menedżer zadań umożliwiający monitorowanie użycia CPU, pamięci, dysku i sieci przez poszczególne procesy oraz Monitor systemu (Performance Monitor) - zaawansowane narzędzie do śledzenia wielu wskaźników wydajności[^1]. Te narzędzia umożliwiają szybkie wykrywanie i diagnozowanie problemów z wydajnością zarówno na poziomie systemu operacyjnego, jak i samej bazy danych[^1].
+W środowisku Windows popularne narzędzia obejmują Menedżer zadań umożliwiający monitorowanie użycia CPU, pamięci, dysku i sieci przez poszczególne procesy oraz Monitor systemu (Performance Monitor) - zaawansowane narzędzie do śledzenia wielu wskaźników wydajności[^1]. Te narzędzia umożliwiają szybkie wykrywanie i diagnozowanie problemów z wydajnością zarówno na poziomie systemu operacyjnego, jak i samej bazy danych[^1] .
 
 Efektywne monitorowanie systemu wymaga śledzenia kluczowych metryk: wykorzystania CPU (wysokie użycie może ograniczać przetwarzanie zapytań), CPU steal time (szczególnie w środowiskach zwirtualizowanych), wykorzystania pamięci przez PostgreSQL oraz ogólnego obciążenia pamięci systemu[^4]. Krytyczne jest unikanie wykorzystania swap przez PostgreSQL, ponieważ drastycznie pogarsza to wydajność[^4].
 
@@ -179,7 +179,7 @@ Bibliografia:
 
 [^1]: zara coć znajde
 
-[^2]: <https://uptrace.dev/tools/postgresql-monitoring-tools>
+[^2]: https://uptrace.dev/tools/postgresql-monitoring-tools
 
 [^3]: https://documentation.red-gate.com/pgnow
 
