@@ -7,7 +7,7 @@ Monitorowanie i diagnostyka
 Wstęp
 ---------
 
-Monitorowanie i diagnostyka baz danych PostgreSQL stanowią fundamentalne elementy zapewniające wydajność, bezpieczeństwo oraz stabilność środowiska produkcyjnego. Nowoczesne rozwiązania monitorowania umożliwiają administratorom proaktywne wykrywanie problemów, optymalizację wydajności oraz zapewnienie zgodności z przepisami bezpieczeństwa [1]_. Efektywne monitorowanie PostgreSQL obejmuje szeroki zakres metryk - od aktywności sesji użytkowników, przez analizę operacji na danych, po szczegółowe śledzenie logów systemowych i zasobów na poziomie systemu operacyjnego[^4].
+Monitorowanie i diagnostyka baz danych PostgreSQL stanowią fundamentalne elementy zapewniające wydajność, bezpieczeństwo oraz stabilność środowiska produkcyjnego. Nowoczesne rozwiązania monitorowania umożliwiają administratorom proaktywne wykrywanie problemów, optymalizację wydajności oraz zapewnienie zgodności z przepisami bezpieczeństwa [1]_. Efektywne monitorowanie PostgreSQL obejmuje szeroki zakres metryk - od aktywności sesji użytkowników, przez analizę operacji na danych, po szczegółowe śledzenie logów systemowych i zasobów na poziomie systemu operacyjnego [^4]_.
 
 Monitorowanie	Sesji	i	Użytkowników
 ----------
@@ -180,25 +180,25 @@ Bibliografia:
 
 .. [1] : https://betterstack.com/community/comparisons/postgresql-monitoring-tools/
 
-[^2]: https://uptrace.dev/tools/postgresql-monitoring-tools
+.. [2]: https://uptrace.dev/tools/postgresql-monitoring-tools
 
-[^3]: https://documentation.red-gate.com/pgnow
+.. [3]: https://documentation.red-gate.com/pgnow
 
-[^4]: https://last9.io/blog/monitoring-postgres/
+.. [4]: https://last9.io/blog/monitoring-postgres/
 
-[^5]: https://stackoverflow.com/questions/17654033/how-to-use-pg-stat-activity
+.. [^5]: https://stackoverflow.com/questions/17654033/how-to-use-pg-stat-activity
 
-[^6]: https://pganalyze.com/blog/postgres-lock-monitoring
+.. [^6]: https://pganalyze.com/blog/postgres-lock-monitoring
 
-[^7]: https://www.pgaudit.org
+.. [^7]: https://www.pgaudit.org
 
-[^8]: https://www.postgresql.org/docs/current/pgstatstatements.html
+.. [^8]: https://www.postgresql.org/docs/current/pgstatstatements.html
 
-[^9]: https://github.com/darold/pgbadger
+.. [^9]: https://github.com/darold/pgbadger
 
-[^10]: https://hevodata.com/learn/elasticsearch-to-postgresql/
+.. [^10]: https://hevodata.com/learn/elasticsearch-to-postgresql/
 
-[^11]: https://www.zabbix.com/integrations/postgresql
+.. [^11]: https://www.zabbix.com/integrations/postgresql
 
 [^12]: https://sematext.com/blog/postgresql-monitoring/
 
