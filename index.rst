@@ -177,9 +177,9 @@ Monitorowanie i diagnostyka PostgreSQL stanowią kompleksowy proces wymagający 
 
 Bibliografia:
 
-[^1]: Dokument-2.pdf
+[^1]: zara coć znajde
 
-[^2]: https://uptrace.dev/tools/postgresql-monitoring-tools
+[^2]: <https://uptrace.dev/tools/postgresql-monitoring-tools>
 
 [^3]: https://documentation.red-gate.com/pgnow
 
