@@ -7,7 +7,7 @@ Monitorowanie i diagnostyka
 Wstęp
 ---------
 
-Monitorowanie i diagnostyka baz danych PostgreSQL stanowią fundamentalne elementy zapewniające wydajność, bezpieczeństwo oraz stabilność środowiska produkcyjnego. Nowoczesne rozwiązania monitorowania umożliwiają administratorom proaktywne wykrywanie problemów, optymalizację wydajności oraz zapewnienie zgodności z przepisami bezpieczeństwa[^1]. Efektywne monitorowanie PostgreSQL obejmuje szeroki zakres metryk - od aktywności sesji użytkowników, przez analizę operacji na danych, po szczegółowe śledzenie logów systemowych i zasobów na poziomie systemu operacyjnego[^4].
+Monitorowanie i diagnostyka baz danych PostgreSQL stanowią fundamentalne elementy zapewniające wydajność, bezpieczeństwo oraz stabilność środowiska produkcyjnego. Nowoczesne rozwiązania monitorowania umożliwiają administratorom proaktywne wykrywanie problemów, optymalizację wydajności oraz zapewnienie zgodności z przepisami bezpieczeństwa[#1]. Efektywne monitorowanie PostgreSQL obejmuje szeroki zakres metryk - od aktywności sesji użytkowników, przez analizę operacji na danych, po szczegółowe śledzenie logów systemowych i zasobów na poziomie systemu operacyjnego[^4].
 
 Monitorowanie	Sesji	i	Użytkowników
 ----------
@@ -166,7 +166,7 @@ Weryfikacja Spójności
 
 Implementacja niezależnego monitorowania każdego węzła klastra z osobną instancją monitorowania poza klastrem bazy danych zapewnia widoczność podczas problemów z całym klastrem[^4]. Okresowe sprawdzenie spójności danych między instancją główną a replikami, monitorowanie konfliktów replikacji w konfiguracjach replikacji logicznej oraz śledzenie sum kontrolnych tabel są kluczowe dla utrzymania integralności danych[^4].
 
-Monitorowanie rozkładu połączeń obejmuje śledzenie liczby połączeń na głównej instancji i replikach odczytu, monitorowanie konfiguracji load balancera oraz weryfikację możliwości failover w connection stringach aplikacji[^4]. Sprawdzanie nieodpowiednich zapisów kierowanych do replik pomaga uniknąć błędów aplikacyjnych podczas przełączeń[^4] .
+Monitorowanie rozkładu połączeń obejmuje śledzenie liczby połączeń na głównej instancji i replikach odczytu, monitorowanie konfiguracji load balancera oraz weryfikację możliwości failover w connection stringach aplikacji[^4]. Sprawdzanie nieodpowiednich zapisów kierowanych do replik pomaga uniknąć błędów aplikacyjnych podczas przełączeń[^4].
 
 
 Wniosek
@@ -177,7 +177,7 @@ Monitorowanie i diagnostyka PostgreSQL stanowią kompleksowy proces wymagający 
 
 Bibliografia:
 
-[^1]: zara coć znajde
+[#1]: https://betterstack.com/community/comparisons/postgresql-monitoring-tools/
 
 [^2]: https://uptrace.dev/tools/postgresql-monitoring-tools
 
